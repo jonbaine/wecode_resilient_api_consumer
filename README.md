@@ -1,6 +1,6 @@
 # wecode_resilient_api_consumer
 
-Quick and dirty example of resilient api consumer for the Wecode resilient api consumer.
+.net CORE Quick and dirty example of resilient api consumer for the Wecode resilient api consumer.
 
 We use different stragies:
 
@@ -8,3 +8,6 @@ We use different stragies:
  * Differenciated Connect and Read timeouts.
  * Parallelism using TPL.  
 
+
+To execute:
+    `dotnet run`
